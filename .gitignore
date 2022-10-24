@@ -43,3 +43,4 @@ Thumbs.db
 # npm
 node_modules/
 .env
+public/midterm/
