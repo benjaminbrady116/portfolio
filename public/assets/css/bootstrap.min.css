@@ -659,6 +659,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px
+  
 }
 
 .no-gutters {
@@ -1701,7 +1702,9 @@ pre code {
     margin-left: 16.666667%
   }
 
-  .offset-lg-3 {}
+  .offset-lg-3 {
+    margin-left: 25%
+  }
 
   .offset-lg-4 {
     margin-left: 33.333333%
